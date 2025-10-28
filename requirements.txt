@@ -1,0 +1,12 @@
+# Core Dependencies
+opencv-python>=4.5.0
+numpy>=1.19.0
+pygame>=2.0.0
+
+# Optional: For faster processing (if GPU available)
+# opencv-contrib-python>=4.5.0
+
+# Development Dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
